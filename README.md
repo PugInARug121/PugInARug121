@@ -1,2 +1,1 @@
-[[![puginarugg's Discord status](https://dsc-readme.tsuni.dev/api/user/1399288320625999942?pronouns=He%2FHim&theme=githubDark&width=512&font=jellybean&effect=gradient&nameColor1=000000&nameColor2=FF0000)](https://github.com/the-snesler/discord-github-preview)
-](https://dsc-readme.tsuni.dev/api/user/1399288320625999942?pronouns=He%2FHim&theme=githubDark&width=512&font=jellybean&effect=gradient&nameColor1=000000&nameColor2=FF0000)
+
